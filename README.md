@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 - 🎓 Studying at **St. Joseph’s College of Engineering** (2023–2027)  
 - 🔭 Currently working on:
   - `Accident Detection with Emergency Alerts`
