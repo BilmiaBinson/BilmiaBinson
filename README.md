@@ -10,8 +10,7 @@
 - 🎓 Studying at **St. Joseph’s College of Engineering** (2023–2027)  
 - 🔭 Currently working on:
   - `Accident Detection with Emergency Alerts`
-  - `AI for Mental Health Support`
-  - `Entrepreneur-Investor Dashboard` with AI insights & blockchain  
+  - `AI for Mental Health Support` 
 - 🌱 Learning: ML algorithms, n8n workflows, cloud APIs, and real-time data pipelines
 - 👀 Open to internships and collaborations in AI, automation, or full-stack innovation
 
@@ -30,6 +29,7 @@
 ---
 
 ## 🏆 Certifications
+- 🏅 **Microsoft** - Azure Data Fundamentals (DP-900) 
 - 🏅 **NPTEL** - Introduction to Machine Learning (Elite Silver)  
 - 🏅 **IBM** - AI Fundamentals  
 - 🏅 **Oracle** - Java Fundamentals  
